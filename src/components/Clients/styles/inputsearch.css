@@ -1,0 +1,12 @@
+.controls-search {
+    width: 70%;
+    background: #24303c;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #1f53c5;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: white;
+    text-transform:uppercase
+  }
